@@ -2,7 +2,7 @@
     --backColor : #202024;
     --secondColor : #121214;
     --buttonColor :red;
-    --fontColor: #fff;
+    --fontColor : #fff;
     --footerBack : #5429cf;
     --linearBack : #B91F1F;
 }
@@ -67,7 +67,7 @@ body {
 }
 
 .fs-1 {
-    font-size: 0.1rem;
+    font-size: 2 rem;
 }
 
 .back-1 {
